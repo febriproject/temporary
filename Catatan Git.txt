@@ -1,0 +1,10 @@
+In order to fix the issue follow the below steps:
+
+1Goto settings of Github account
+2Find and Select Developer Settings
+3Find and Select Personal access tokens
+4Generate a new token
+5Fill in any note and select the access scopes
+6once done click on generate token
+
+Use the generated token in place of a password to communicate with Github.
